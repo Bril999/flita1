@@ -1,0 +1,3 @@
+C:/Users/dmitr/CLionProjects/flita1/cmake-build-debug/CMakeFiles/flita1.dir
+C:/Users/dmitr/CLionProjects/flita1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmitr/CLionProjects/flita1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
